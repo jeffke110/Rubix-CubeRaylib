@@ -1,1 +1,1 @@
-# Rubix-Cube
+# Rubix Cube
